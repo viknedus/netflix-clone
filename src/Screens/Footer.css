@@ -1,0 +1,28 @@
+.footer {
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background: linear-gradient(to bottom, #111, #000);
+}
+
+.footer img {
+  height: 3rem;
+  margin: 1rem 0;
+  cursor: pointer;
+}
+
+.footer p,
+a {
+  white-space: nowrap;
+  width: 100%;
+  text-align: center;
+  color: #e6e6e6;
+}
+
+@media (max-width: 550px) {
+  .footer {
+    padding-top: 3rem;
+  }
+}
