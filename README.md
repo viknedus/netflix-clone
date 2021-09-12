@@ -24,7 +24,7 @@ You will also see any lint errors in the console.
 
 - Using hooks e.g useEffect, useState, and useRef
 - Using Axios to import TMDB movies using TMDB API
-- FireBase as a general host of the project
+- Firebase as a general host of the project
 - rest API
 
 ### Check it out [Here](http://netflix-clone-viknedus.vercel.app/).
