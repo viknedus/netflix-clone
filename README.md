@@ -1,6 +1,6 @@
 # Simple Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), Axios, and Firebase, and TMDB API.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), Axios, and Firebase, and TMDB API and Redux.
 
 In the project directory, you can run:
 
@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ## ScreenShots
 
-[![Netflix clone SS1](/src/assets/screenshots/Screenshot1.png)](http://netflix-clone-viknedus.vercel.app/)
+[![Netflix clone SS1](/src/assets/screenshots/Screenshot1ya.png)](http://netflix-clone-viknedus.vercel.app/)
 
 [![Netflix clone SS2](/src/assets/screenshots/Screenshot2.png)](http://netflix-clone-viknedus.vercel.app/)
 
