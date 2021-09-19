@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ## ScreenShots
 
-[![Netflix clone SS1](/src/assets/screenshots/Screenshot1ya.png)](http://netflix-clone-viknedus.vercel.app/)
+[![Netflix clone SS1](/src/assets/screenshots/Screenshot1.png)](http://netflix-clone-viknedus.vercel.app/)
 
 [![Netflix clone SS2](/src/assets/screenshots/Screenshot2.png)](http://netflix-clone-viknedus.vercel.app/)
 
